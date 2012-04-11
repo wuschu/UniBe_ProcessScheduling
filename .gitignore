@@ -2,7 +2,6 @@
 # Most parts from github.com/github/gitignore
 
 # Java
-*.class
 *.war
 *.ear
 
