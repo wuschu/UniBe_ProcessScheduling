@@ -65,7 +65,6 @@ Desktop.ini
 # ignore Maven scripts
 target/
 ./target/
-*.sh
 
 # other stuff
 gen
