@@ -10,4 +10,4 @@ Just run
 
     ./run.sh
 
-to run the simulation.
+to start the simulation.
